@@ -1,5 +1,5 @@
 ---
-title: "My first blog post"
+title: "My first Blog Post"
 date: 2026-07-02
 ---
 Hello everyone!
