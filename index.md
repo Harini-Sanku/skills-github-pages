@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: "My First Blog Post"
 ---
 #Welcome to My Website
 
